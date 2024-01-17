@@ -8,7 +8,7 @@ Social Buzz has over 100.000 posts per day, that can be assumed to have 36.500.0
 ## **Project Findings:**
 <img width="595" alt="image" src="https://github.com/Gnpavan/TATA_Forage_Virtual_Internsjip_Program/assets/89655397/df9d068b-2187-45b8-9d2b-2b06440f3895">
 
-"Link to Dashboard" (https://github.com/Gnpavan/TATA_Forage_Virtual_Internsjip_Program/tree/master/Task_3)
+**Link to Dashboard** [Dashboard](https://github.com/Gnpavan/TATA_Forage_Virtual_Internsjip_Program/tree/master/Task_3)
 
 Above is the dashboard I have built with the online retail dataset received from the team. They wanted to understand the better performing countries, top customers, sales by year so that the visuals helps in forecasting the trends of the upcoming years and also they hope the insights would help in understanding the flaws with the sales.
 
